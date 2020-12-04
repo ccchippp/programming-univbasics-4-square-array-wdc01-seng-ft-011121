@@ -6,3 +6,5 @@ def square_array(numbers)
   end
   square_array(numbers)
 end
+
+# new_array.push(array[index])
